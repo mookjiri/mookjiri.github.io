@@ -1,2 +1,2 @@
-# mookjirii.github.io
+# mookjiri.github.io
 Personal Homepage.
